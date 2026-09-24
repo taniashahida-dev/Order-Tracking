@@ -25,7 +25,7 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repository-url>
+   git clone <https://github.com/taniashahida-dev/Order-Tracking.git>
    cd <repository-folder-name>
    Install dependencies:
 
