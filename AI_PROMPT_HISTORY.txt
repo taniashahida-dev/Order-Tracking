@@ -1,0 +1,3 @@
+Prompt-1. I am designing a mobile-first Order Tracking screen (360px-430px width). What are some modern UI/UX best practices to show delivery progress and timeline clearly?
+Prompt-2. How can I structure mock data in JSON for different order states like "Out for Delivery", "Delayed", "Not Received", and "No Tracking Available"?
+Prompt-3. Suggest a color palette using Tailwind CSS for an e-commerce tracking screen that handles error states (like delayed or missing orders) gracefully.
