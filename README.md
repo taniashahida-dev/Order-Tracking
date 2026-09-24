@@ -39,7 +39,7 @@ Open in browser:
 Open http://localhost:3000 to view the live application.
 
 🌐 Live Demo
-Deployed URL: [Insert your Vercel / Netlify live link here]
+Deployed URL: https://order-tracking-tan-nine.vercel.app
 
 📄 AI Prompt History
 As required by the assessment guidelines, all AI interaction prompts used during the development of this task are recorded and documented in the accompanying AI_PROMPT_HISTORY.txt file.
